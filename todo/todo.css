@@ -1,0 +1,5 @@
+.not-logged-in,
+table,
+.add-todo-form {
+  display: none;
+}
